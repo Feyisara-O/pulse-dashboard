@@ -2,9 +2,9 @@
 
 A production-quality SaaS analytics dashboard built with pure HTML, CSS, and Vanilla JavaScript. No frameworks. No bloat.
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](Preview.jpg)
 
-**[Live Demo →](https://your-username.github.io/pulse-dashboard)**
+**[Live Demo →](https://feyisara-o.github.io/Pulse-Dashboard/)**
 
 ---
 
@@ -83,4 +83,4 @@ Or simply open `index.html` in any browser.
 ## Author
 
 **Feyisara O.** — Frontend Developer
-[Portfolio](https://your-portfolio-url.com) · [LinkedIn](https://linkedin.com/in/your-profile) · [Upwork](https://upwork.com/your-profile)
+[Portfolio](https://your-portfolio-url.com) · [LinkedIn](https://www.linkedin.com/in/mofeyisara-okunola-73121b277?trk=contact-info) · [Upwork](https://upwork.com/your-profile)
