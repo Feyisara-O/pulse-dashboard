@@ -16,7 +16,7 @@ Pulse is a business intelligence dashboard that gives founders, freelancers, and
 
 ## Features
 
-- **4 KPI Metric Cards** — Revenue, Active Clients, Orders, and Expenses with animated counters and period-over-period change indicators
+- **4 KPI Metric Cards** — Revenue, Active Clients, Orders, and Expenses with animated counters and period-over-period change indicators.
 - **Revenue Overview Chart** — Line chart comparing revenue vs expenses across the selected time period
 - **Revenue Split Chart** — Doughnut chart breaking down income by category
 - **AI Business Pulse** — Powered by the Claude API. Reads live dashboard metrics and generates a single actionable business insight
