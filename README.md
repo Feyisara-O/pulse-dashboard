@@ -6,7 +6,7 @@
 
 ---
 
-![Pulse Dashboard Preview](preview.jpg)
+![Pulse Dashboard Preview](preview/dashboard.jpg)
 
 ---
 
@@ -28,15 +28,15 @@ Pulse is a business intelligence dashboard that consolidates the metrics that ma
 
 | Dashboard — Dark Mode | Dashboard — Light Mode |
 |---|---|
-| ![Dark mode](screenshot-dark.png) | ![Light mode](screenshot-light.png) |
+| ![Dark mode](preview/dashboard.jpg) | ![Light mode](preview/light-mode.jpg) |
 
 | Analytics Page | Clients Page |
 |---|---|
-| ![Analytics](screenshot-analytics.png) | ![Clients](screenshot-clients.png) |
+| ![Analytics](preview/analytics.jpg) | ![Clients](preview/clients.jpg) |
 
 | Invoices Page | Add Transaction Modal |
 |---|---|
-| ![Invoices](screenshot-invoices.png) | ![Modal](screenshot-modal.png) |
+| ![Invoices](preview/invoices.jpg) | ![Modal](preview/add-transaction.jpg) |
 
 ---
 
@@ -153,4 +153,4 @@ Or simply open `index.html` directly in any browser.
 
 **Feyisara O.** — Frontend Developer
 
-[Portfolio](https://your-portfolio-url.com) · [LinkedIn](https://linkedin.com/in/your-profile) · [Upwork](https://upwork.com/your-profile)
+[Portfolio](https://feyisara-o.github.io/feyisara-porfolio/) · [LinkedIn](https://www.linkedin.com/in/mofeyisara-okunola-73121b277?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Upwork](https://upwork.com/your-profile)
