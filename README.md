@@ -4,7 +4,7 @@ A production-quality SaaS analytics dashboard built with pure HTML, CSS, and Van
 
 ![Dashboard Preview](Preview.jpg)
 
-**[Live Demo →](https://feyisara-o.github.io/Pulse-Dashboard/)**
+**[Live Demo →](https://feyisara-o.github.io/pulse-dashboard/)**
 
 ---
 
